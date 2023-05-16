@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Getor de Pedidos</string>
+    <string name="bienvenida">Bienvenido a tu gestor de Pedidos</string>
+    <string name="platillo_inicio">Mantente al dia con tus platillos</string>
+    <string name="pedido_inicio">Mantente al dia con tus pedidos</string>
+    <string name="titulo_menu_pedido">Registra tus pedidos</string>
+    <string name="titulo_menu_encargo">registra los alimentos de tu pedido</string>
+    <string name="titulo_encargo_platillo">Selecciona los alimentos para tu pedido</string>
+    <string name="titulo_registrar_encargo">Registra el platillo del pedido</string>
+    <string name="nombre_pedido">Nombre del pedido: </string>
+    <string name="catidad_platillo">Cantidad: </string>
+    <string name="total_platillo">Total por el platillo: </string>
+    <string name="descripcion_bp">Agregar un platillo</string>
+    <string name="Guarda">Guardar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="alimentos">Alimentos</string>
+    <string name="bebidas">Bebidas</string>
+
+</resources>
